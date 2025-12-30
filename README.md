@@ -1,4 +1,3 @@
-基于你提供的项目代码、功能逻辑以及部署配置，我为你起草了一份专业的 **README.md**。这份文档涵盖了项目背景、核心功能、技术栈、安装指南以及部署注意事项。
 
 ---
 
@@ -118,5 +117,3 @@ npm run build
 本项目遵循 MIT 协议。
 
 ---
-
-**Would you like me to add a specific "Contribution" section or change the project name to something else?**
