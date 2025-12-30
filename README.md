@@ -49,8 +49,8 @@
 ### 1. 克隆项目
 
 ```bash
-git clone https://github.com/your-username/what-to-eat.git
-cd what-to-eat
+git clone https://github.com/fangcx616/barista.git
+cd barista
 
 ```
 
@@ -117,3 +117,4 @@ npm run build
 本项目遵循 MIT 协议。
 
 ---
+
